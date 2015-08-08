@@ -5,5 +5,4 @@ package = SolKit
 ; php = 5.2.4
 project = solkit_theme
 ; dependencies[] = solkit_base
-; dependencies[] = radix_core
-; features[features_api][] = api:1
+features[features_api][] = api:1
