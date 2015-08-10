@@ -10,8 +10,8 @@ projects[octal][download][branch] = 7.x-1.x
 projects[octal][download][revision] = 997cebf
 projects[octal][download][url] = "http://git.drupal.org/project/octal.git"
 
-projects[solkit_octal][type] = module
-projects[solkit_octal][subdir] = solkit
+projects[solkit_octal][type] = theme
 projects[solkit_octal][download][type] = git
 projects[solkit_octal][download][branch] = master
 projects[solkit_octal][download][url] = https://github.com/solutiondrop/solkit_octal.git
+
