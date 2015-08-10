@@ -36,6 +36,6 @@ function _solkit_theme_get_blacklisted_themes() {
     'garland',
     'octal',
     'radix',
-    'restaurant_octal',
+    'solkit_octal',
   );
 }

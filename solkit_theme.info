@@ -2,7 +2,6 @@ name = SolKit Theme
 description = Theming helpers for the SolKit Distribution
 core = 7.x
 package = SolKit
-; php = 5.2.4
 project = solkit_theme
 ; dependencies[] = solkit_base
 features[features_api][] = api:1
